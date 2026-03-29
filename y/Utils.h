@@ -3,7 +3,7 @@
 -----------------------------------------------------------
 Final Project Milestone 3:3
 Module: 3
-Filename: Food.h
+Filename: Utils.h
 -----------------------------------------------------------
 Author: Anastasiya Zozulyuk
 Student number: 139,230,247
