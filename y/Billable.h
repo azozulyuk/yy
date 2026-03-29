@@ -22,7 +22,6 @@ I have done all the coding by myself and only copied the code
 that my professor provided to complete my work for function main,ect.
 -----------------------------------------------------------
 */
-
 #ifndef SENECA_BILLABLE_H
 #define SENECA_BILLABLE_H
 
@@ -52,7 +51,7 @@ namespace seneca {
         virtual bool ordered() const = 0;
         virtual std::ifstream& read(std::ifstream& file) = 0;
 
-        operator const char* () const;
+        operator const char*() const;
     };
 
     double operator+(double money, const Billable& B);
