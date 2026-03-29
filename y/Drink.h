@@ -22,7 +22,6 @@ I have done all the coding by myself and only copied the code
 that my professor provided to complete my work for function main,ect.
 -----------------------------------------------------------
 */
-
 #pragma once
 #ifndef SENECA_DRINK_H
 #define SENECA_DRINK_H
