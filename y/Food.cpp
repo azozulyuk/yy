@@ -1,4 +1,3 @@
-#pragma once
 /* Citation and Sources...
 -----------------------------------------------------------
 Final Project Milestone 3:3
